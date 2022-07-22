@@ -1,0 +1,265 @@
+<pre class='metadata'>
+Title: 2022-07 Library Evolution Poll Outcomes
+Shortname: D2611
+Revision: 0
+Status: D
+Group: WG21
+Audience: WG21
+Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
+Editor: Fabio Fracassi — Library Evolution Vice Chair, CODE University of Applied Sciences, f.fracassi@gmx.net
+Editor: Ben Craig — Library Evolution Vice Chair, NI, ben.craig@gmail.com
+Editor: Inbal Levi — Ranges Chair (SG9) and Library Mailing List Review Manager, sinbal2l@gmail.com
+URL: https://wg21.link/P2575
+!Source: <a href="https://github.com/brycelelbach/wg21_p2611_2022_07_library_evolution_poll_outcomes/blob/main/2022_07_library_evolution_poll_outcomes.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2611_2022_07_library_evolution_poll_outcomes/issues
+Metadata Order: Editor, This Version, Source, Issue Tracking, Project, Audience
+Markup Shorthands: markdown yes
+Toggle Diffs: no
+No Abstract: yes
+Boilerplate: style-syntax-highlighting off
+Default Biblio Display: direct
+</pre>
+
+<style>
+table, th, tr, td {
+  border: 2px solid black !important;
+}
+@media (prefers-color-scheme: dark) {
+  table, th, tr, td {
+    border: 2px solid white !important;
+  }
+}
+</style>
+
+# Introduction # {#introduction}
+
+In 2022-07, the C++ Library Evolution group conducted a series of
+  electronic decision polls [[P2610R0]].
+This paper provides the results of those polls and summarizes the results.
+
+In total, 32 people participated in the polls.
+Some participants opted to not vote on some polls.
+Thank you to everyone who participated, and to the proposal authors for all
+  their hard work!
+
+# Poll Outcomes # {#poll-outcomes}
+
+* SF: Strongly Favor.
+* WF: Weakly Favor.
+* N: Neutral.
+* WA: Weakly Against.
+* SA: Strongly Against.
+
+<table>
+<tr>
+<th style="padding-bottom: 10px;">Poll
+<th>SF
+<th>WF
+<th>N
+<th>WA
+<th>SA
+<th>Outcome
+
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.1: Return [P0429R9] flat_map to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+<td>15
+<td>13
+<td>1
+<td>0
+<td>0
+<td>Strong consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.2: Return [P1222R4] flat_set to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+<td>15
+<td>13
+<td>1
+<td>0
+<td>0
+<td>Strong consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.3: Return [P0792R10] function_ref to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+<td>16
+<td>7
+<td>1
+<td>1
+<td>1
+<td>Consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.4: Send [P2505R4] Monadic Functions For expected to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+<td>15
+<td>11
+<td>0
+<td>1
+<td>0
+<td>Consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.5: Send [P2585R0] Improving Default Container Formatting to Library Working Group for C++23, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+<td>16
+<td>7
+<td>0
+<td>0
+<td>1
+<td>Consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.6: Send [P2446R2] views::as_rvalue to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+<td>15
+<td>7
+<td>0
+<td>1
+<td>0
+<td>Consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.7: Send [P2278R4] cbegin Should Always Return A Constant Iterator to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+<td>16
+<td>8
+<td>0
+<td>0
+<td>0
+<td>Unanimous consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.8: Send [P2248R5] Enabling List-Initialization For Algorithms to Library Working Group for C++23, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+<td>6
+<td>13
+<td>3
+<td>1
+<td>0
+<td>Consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.9: Send [P2539R1] Should The Output Of print To A Terminal Be Synchronized With The Underlying Stream? to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+<td>11
+<td>10
+<td>2
+<td>1
+<td>0
+<td>Consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.10: Send [P2510R3] Formatting Pointers to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+<td>7
+<td>12
+<td>1
+<td>2
+<td>1
+<td>Poll withdrawn due to incorrect ship vehicle. It will be retaken targeting C++26 in the next electronic polling period.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.11: Send [P2551R2] Clarify Intent Of Individually Specializable Numeric Traits to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+<td>12
+<td>8
+<td>0
+<td>0
+<td>0
+<td>Unanimous consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.12: Send [P2599R2] index_type & size_type In mdspan to Library Working Group for C++23, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+<td>14
+<td>7
+<td>2
+<td>1
+<td>0
+<td>Consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.13: Send [P2604R0] mdspan: Rename pointer, data, And contiguous to Library Working Group for C++23, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+<td>13
+<td>13
+<td>0
+<td>0
+<td>0
+<td>Unanimous consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 1.14: Send [P2613R1]: Add The Missing empty To mdspan to Library Working Group for C++23, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+<td>16
+<td>10
+<td>1
+<td>1
+<td>0
+<td>Consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 2.1: Send [P2338R2] Freestanding Library: Character Primitives And The C Library to Library Working Group for C++26, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+<td>11
+<td>6
+<td>0
+<td>0
+<td>0
+<td>Unanimous consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 2.2: Send [P2407R1] Freestanding Library: Partial Classes to Library Working Group for C++26, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+<td>7
+<td>8
+<td>1
+<td>0
+<td>0
+<td>Strong consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 2.3: Send [P2562R1] constexpr Stable Sorting to Library Working Group for C++26, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+<td>9
+<td>7
+<td>2
+<td>0
+<td>0
+<td>Strong consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 2.4: Send [P2283R2] constexpr Specialized Memory Algorithms to Library Working Group for C++26, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+<td>10
+<td>7
+<td>0
+<td>0
+<td>0
+<td>Unanimous consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 2.5: Send [P2542R2] views::concat to Library Working Group for C++26, classified as an addition ([P0592R4] bucket 3 item).
+<td>10
+<td>7
+<td>0
+<td>0
+<td>0
+<td>Unanimous consensus in favor.
+
+<tr>
+<td style="padding-bottom: 16px;">
+Poll 2.6: Send [P2609R1] Relaxing Ranges Just A Smidge to Library Working Group for C++26, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+<td>5
+<td>6
+<td>2
+<td>0
+<td>0
+<td>Strong consensus in favor.
+
+</table>
+
