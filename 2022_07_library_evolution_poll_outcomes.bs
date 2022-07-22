@@ -63,7 +63,7 @@ Thank you to everyone who participated, and to the proposal authors for all
 
 <tr>
 <td>
-Poll 1.1: Return [P0429R9] flat_map to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+Poll 1.1: Return [[P0429R9]] flat_map to Library Working Group for C++23, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>15
 <td>13
 <td>1
@@ -73,7 +73,7 @@ Poll 1.1: Return [P0429R9] flat_map to Library Working Group for C++23, classifi
 
 <tr>
 <td>
-Poll 1.2: Return [P1222R4] flat_set to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+Poll 1.2: Return [[P1222R4]] flat_set to Library Working Group for C++23, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>15
 <td>13
 <td>1
@@ -83,7 +83,7 @@ Poll 1.2: Return [P1222R4] flat_set to Library Working Group for C++23, classifi
 
 <tr>
 <td>
-Poll 1.3: Return [P0792R10] function_ref to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+Poll 1.3: Return [[P0792R10]] function_ref to Library Working Group for C++23, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>16
 <td>7
 <td>1
@@ -93,7 +93,7 @@ Poll 1.3: Return [P0792R10] function_ref to Library Working Group for C++23, cla
 
 <tr>
 <td>
-Poll 1.4: Send [P2505R4] Monadic Functions For expected to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+Poll 1.4: Send [[P2505R4]] Monadic Functions For expected to Library Working Group for C++23, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>15
 <td>11
 <td>0
@@ -103,7 +103,7 @@ Poll 1.4: Send [P2505R4] Monadic Functions For expected to Library Working Group
 
 <tr>
 <td>
-Poll 1.5: Send [P2585R0] Improving Default Container Formatting to Library Working Group for C++23, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+Poll 1.5: Send [[P2585R0]] Improving Default Container Formatting to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>16
 <td>7
 <td>0
@@ -113,7 +113,7 @@ Poll 1.5: Send [P2585R0] Improving Default Container Formatting to Library Worki
 
 <tr>
 <td>
-Poll 1.6: Send [P2446R2] views::as_rvalue to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+Poll 1.6: Send [[P2446R2]] views::as_rvalue to Library Working Group for C++23, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>15
 <td>7
 <td>0
@@ -123,7 +123,7 @@ Poll 1.6: Send [P2446R2] views::as_rvalue to Library Working Group for C++23, cl
 
 <tr>
 <td>
-Poll 1.7: Send [P2278R4] cbegin Should Always Return A Constant Iterator to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+Poll 1.7: Send [[P2278R4]] cbegin Should Always Return A Constant Iterator to Library Working Group for C++23, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>16
 <td>8
 <td>0
@@ -133,7 +133,7 @@ Poll 1.7: Send [P2278R4] cbegin Should Always Return A Constant Iterator to Libr
 
 <tr>
 <td>
-Poll 1.8: Send [P2248R5] Enabling List-Initialization For Algorithms to Library Working Group for C++23, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+Poll 1.8: Send [[P2248R5]] Enabling List-Initialization For Algorithms to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>6
 <td>13
 <td>3
@@ -143,7 +143,7 @@ Poll 1.8: Send [P2248R5] Enabling List-Initialization For Algorithms to Library 
 
 <tr>
 <td>
-Poll 1.9: Send [P2539R1] Should The Output Of print To A Terminal Be Synchronized With The Underlying Stream? to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+Poll 1.9: Send [[P2539R1]] Should The Output Of print To A Terminal Be Synchronized With The Underlying Stream? to Library Working Group for C++23, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>11
 <td>10
 <td>2
@@ -153,7 +153,7 @@ Poll 1.9: Send [P2539R1] Should The Output Of print To A Terminal Be Synchronize
 
 <tr>
 <td>
-Poll 1.10: Send [P2510R3] Formatting Pointers to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+Poll 1.10: Send [[P2510R3]] Formatting Pointers to Library Working Group for C++23, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>7
 <td>12
 <td>1
@@ -163,7 +163,7 @@ Poll 1.10: Send [P2510R3] Formatting Pointers to Library Working Group for C++23
 
 <tr>
 <td>
-Poll 1.11: Send [P2551R2] Clarify Intent Of Individually Specializable Numeric Traits to Library Working Group for C++23, classified as an addition ([P0592R4] bucket 3 item).
+Poll 1.11: Send [[P2551R2]] Clarify Intent Of Individually Specializable Numeric Traits to Library Working Group for C++23, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>12
 <td>8
 <td>0
@@ -173,7 +173,7 @@ Poll 1.11: Send [P2551R2] Clarify Intent Of Individually Specializable Numeric T
 
 <tr>
 <td>
-Poll 1.12: Send [P2599R2] index_type & size_type In mdspan to Library Working Group for C++23, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+Poll 1.12: Send [[P2599R2]] index_type & size_type In mdspan to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>14
 <td>7
 <td>2
@@ -183,7 +183,7 @@ Poll 1.12: Send [P2599R2] index_type & size_type In mdspan to Library Working Gr
 
 <tr>
 <td>
-Poll 1.13: Send [P2604R0] mdspan: Rename pointer, data, And contiguous to Library Working Group for C++23, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+Poll 1.13: Send [[P2604R0]] mdspan: Rename pointer, data, And contiguous to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>13
 <td>13
 <td>0
@@ -193,7 +193,7 @@ Poll 1.13: Send [P2604R0] mdspan: Rename pointer, data, And contiguous to Librar
 
 <tr>
 <td>
-Poll 1.14: Send [P2613R1]: Add The Missing empty To mdspan to Library Working Group for C++23, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+Poll 1.14: Send [[P2613R1]]: Add The Missing empty To mdspan to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>16
 <td>10
 <td>1
@@ -203,7 +203,7 @@ Poll 1.14: Send [P2613R1]: Add The Missing empty To mdspan to Library Working Gr
 
 <tr>
 <td>
-Poll 2.1: Send [P2338R2] Freestanding Library: Character Primitives And The C Library to Library Working Group for C++26, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+Poll 2.1: Send [[P2338R2]] Freestanding Library: Character Primitives And The C Library to Library Working Group for C++26, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>11
 <td>6
 <td>0
@@ -213,7 +213,7 @@ Poll 2.1: Send [P2338R2] Freestanding Library: Character Primitives And The C Li
 
 <tr>
 <td>
-Poll 2.2: Send [P2407R1] Freestanding Library: Partial Classes to Library Working Group for C++26, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+Poll 2.2: Send [[P2407R1]] Freestanding Library: Partial Classes to Library Working Group for C++26, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>7
 <td>8
 <td>1
@@ -223,7 +223,7 @@ Poll 2.2: Send [P2407R1] Freestanding Library: Partial Classes to Library Workin
 
 <tr>
 <td>
-Poll 2.3: Send [P2562R1] constexpr Stable Sorting to Library Working Group for C++26, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+Poll 2.3: Send [[P2562R1]] constexpr Stable Sorting to Library Working Group for C++26, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>9
 <td>7
 <td>2
@@ -233,7 +233,7 @@ Poll 2.3: Send [P2562R1] constexpr Stable Sorting to Library Working Group for C
 
 <tr>
 <td>
-Poll 2.4: Send [P2283R2] constexpr Specialized Memory Algorithms to Library Working Group for C++26, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+Poll 2.4: Send [[P2283R2]] constexpr Specialized Memory Algorithms to Library Working Group for C++26, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>10
 <td>7
 <td>0
@@ -243,7 +243,7 @@ Poll 2.4: Send [P2283R2] constexpr Specialized Memory Algorithms to Library Work
 
 <tr>
 <td>
-Poll 2.5: Send [P2542R2] views::concat to Library Working Group for C++26, classified as an addition ([P0592R4] bucket 3 item).
+Poll 2.5: Send [[P2542R2]] views::concat to Library Working Group for C++26, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>10
 <td>7
 <td>0
@@ -253,7 +253,7 @@ Poll 2.5: Send [P2542R2] views::concat to Library Working Group for C++26, class
 
 <tr>
 <td>
-Poll 2.6: Send [P2609R1] Relaxing Ranges Just A Smidge to Library Working Group for C++26, classified as an improvement of an existing feature ([P0592R4] bucket 2 item).
+Poll 2.6: Send [[P2609R1]] Relaxing Ranges Just A Smidge to Library Working Group for C++26, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>5
 <td>6
 <td>2
