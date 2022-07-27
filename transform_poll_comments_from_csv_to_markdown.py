@@ -61,7 +61,7 @@ with open(args.input) as csvfile:
       votes[poll].sort(key = key_from_position)
 
   for poll in polls:
-    print('## Poll {0} ## {{#poll-{0}}}'.format(poll))
+    print('## Poll {0}'.format(poll))
     print()
 
     for [position, comment] in votes[poll]:
